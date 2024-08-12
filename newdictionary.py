@@ -22,7 +22,7 @@
 #     choice = input("Do you want to continue(y/n):")    
 
 countries = {}
-def get_data():
+def get_data(): 
     for i in range(3):
         country = input("Enter the country:")
         currency = input("Enter the currency:")
